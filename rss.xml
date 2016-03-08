@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Juan Muscarsel]]></title>
-        <description><![CDATA[Juan Muscarsel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Graphic Designer]]></title>
+        <description><![CDATA[Graphic Designer]]></description>
+        <link>https://thegrid.ai/juan-muscarsel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:16:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 17:20:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/juan-muscarsel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd0daa08-db39-493f-82e9-b1d6bbb1f0e8.jpg">]]></description>
+            <link>https://thegrid.ai/juan-muscarsel/4137007d-436f-4dd1-9cc7-4d61bf0ccb65/index.html</link>
+            <guid isPermaLink="false">4137007d-436f-4dd1-9cc7-4d61bf0ccb65</guid>
+            <pubDate>Tue, 08 Mar 2016 17:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dccbd02-336e-405b-bc02-ce7f049a63c7.jpg">]]></description>
-            <link>undefinedd97e29f5-b729-4749-a394-803020addf06/index.html</link>
+            <link>https://thegrid.ai/juan-muscarsel/d97e29f5-b729-4749-a394-803020addf06/index.html</link>
             <guid isPermaLink="false">d97e29f5-b729-4749-a394-803020addf06</guid>
             <pubDate>Tue, 08 Mar 2016 17:16:18 GMT</pubDate>
         </item>
